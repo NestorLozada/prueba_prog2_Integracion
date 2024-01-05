@@ -1,1 +1,2 @@
-# prueba_prog2_Integracion
+# Prueba_prog2_Integracion
+- Nestor Lozada
